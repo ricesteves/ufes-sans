@@ -707,12 +707,6 @@ tag = ordn;
 {
 code = "#ifdef VARIABLE
 
-condition wght < 301;
-sub dollar by dollar.light;
-sub cent by cent.light;
-sub Oslash by Oslash.light;
-sub oslash by oslash.light;
-
 #endif
 ";
 tag = calt;
