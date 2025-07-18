@@ -18,7 +18,7 @@ import argparse
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 1024, 128, 1
 FONT_PATH = "fonts/ttf/UfesSans-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
-AUXILIARY_FONT = "Helvetica"
+AUXILIARY_FONT = "fonts/ttf/UfesSans-Regular.ttf"
 AUXILIARY_FONT_SIZE = 48
 
 LINE_ONE = "ABCDEFGHIJKLMNOPQ"
