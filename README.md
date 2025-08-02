@@ -17,14 +17,14 @@ Thus, over the years, the project evolved from a single signage font into a comp
 Ricardo Esteves
 
 ### Contributors
-Filipe Motta 
-Thais Bronze 
-Cássio Ferreira 
-Ana Quintelato 
-Breno Mello 
-João Magioni 
-Sophia Rossetto
-Beatriz Feliciano
+Filipe Motta,  
+Thais Bronze,  
+Cássio Ferreira,  
+Ana Quintelato,  
+Breno Mello,  
+João Magioni,  
+Sophia Rossetto, 
+Beatriz Feliciano.
 
 * * *
 
